@@ -1,0 +1,10 @@
+header {
+  display: flex;
+  height: 4em;
+  width: 100%;
+  background: var(--bg-header);
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5em;
+  color: var(--text-header);
+}
